@@ -1,0 +1,13 @@
+.venv
+.git
+.gitignore
+.coverage
+test_coverage_reports/
+public/media/*
+!/public/media/.keep
+public/static/*
+!/public/static/.keep
+tmp/*
+docker/*
+!docker/*.pem
+!docker/*.conf

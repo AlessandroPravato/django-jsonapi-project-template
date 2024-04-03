@@ -1,0 +1,6 @@
+[flake8]
+ignore =
+    # H202: assertRaises Exception too broad
+    H202,
+    # H504: Line break after binary operator
+    W504
